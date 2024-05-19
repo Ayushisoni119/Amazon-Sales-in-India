@@ -14,3 +14,8 @@ Top 10 Service by Quantity and Category: Ship Service Level
 Quantity Analysis by State
 Quantity Analysis by Status and Category
 Summary Metrics
+
+
+DASHBOARD
+![Dashboard 1](https://github.com/Ayushisoni119/Amazon-Sales-in-India/assets/145340068/82f9093c-a620-4cb2-ba26-41f74dab0f89)
+
